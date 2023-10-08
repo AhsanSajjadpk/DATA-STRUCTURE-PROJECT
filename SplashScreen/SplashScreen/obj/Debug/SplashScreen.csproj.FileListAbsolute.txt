@@ -1,0 +1,71 @@
+C:\Users\HP\source\repos\SplashScreen\SplashScreen\bin\Debug\SplashScreen.exe.config
+C:\Users\HP\source\repos\SplashScreen\SplashScreen\bin\Debug\SplashScreen.exe
+C:\Users\HP\source\repos\SplashScreen\SplashScreen\bin\Debug\SplashScreen.pdb
+C:\Users\HP\source\repos\SplashScreen\SplashScreen\obj\Debug\SplashScreen.Properties.Resources.resources
+C:\Users\HP\source\repos\SplashScreen\SplashScreen\obj\Debug\SplashScreen.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\SplashScreen\SplashScreen\obj\Debug\SplashScreen.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\SplashScreen\SplashScreen\obj\Debug\SplashScreen.exe
+C:\Users\HP\source\repos\SplashScreen\SplashScreen\obj\Debug\SplashScreen.pdb
+C:\Users\HP\source\repos\SplashScreen\SplashScreen\obj\Debug\SplashScreen.splash.resources
+C:\Users\HP\source\repos\SplashScreen\SplashScreen\obj\Debug\SplashScreen.admin.resources
+C:\Users\HP\source\repos\SplashScreen\SplashScreen\obj\Debug\SplashScreen.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\New folder (2)\SplashScreen\SplashScreen\obj\Debug\SplashScreen.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\New folder (2)\SplashScreen\SplashScreen\obj\Debug\WorkingPage.Form1.resources
+C:\Users\HP\Desktop\New folder (2)\SplashScreen\SplashScreen\obj\Debug\SplashScreen.splash.resources
+C:\Users\HP\Desktop\New folder (2)\SplashScreen\SplashScreen\obj\Debug\SplashScreen.admin.resources
+C:\Users\HP\Desktop\New folder (2)\SplashScreen\SplashScreen\obj\Debug\SplashScreen.Properties.Resources.resources
+C:\Users\HP\Desktop\New folder (2)\SplashScreen\SplashScreen\obj\Debug\SplashScreen.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\New folder (2)\SplashScreen\SplashScreen\obj\Debug\SplashScreen.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\New folder (2)\SplashScreen\SplashScreen\obj\Debug\SplashScreen.exe
+C:\Users\HP\Desktop\New folder (2)\SplashScreen\SplashScreen\obj\Debug\SplashScreen.pdb
+C:\Users\HP\Desktop\New folder (2)\SplashScreen\SplashScreen\bin\Debug\SplashScreen.exe.config
+C:\Users\HP\Desktop\New folder (2)\SplashScreen\SplashScreen\bin\Debug\SplashScreen.exe
+C:\Users\HP\Desktop\New folder (2)\SplashScreen\SplashScreen\bin\Debug\SplashScreen.pdb
+C:\Users\HP\Desktop\New folder (2)\SplashScreen\SplashScreen\bin\Debug\WorkingPage.exe
+C:\Users\HP\Desktop\New folder (2)\SplashScreen\SplashScreen\bin\Debug\WorkingPage.pdb
+C:\Users\HP\Desktop\New folder (2)\SplashScreen\SplashScreen\bin\Debug\WorkingPage.exe.config
+C:\Users\HP\Desktop\New folder (2)\SplashScreen\SplashScreen\obj\Debug\SplashScreen.csproj.CopyComplete
+C:\Users\HP\Desktop\New folder (2)\SplashScreen\SplashScreen\bin\Debug\main_page.exe
+C:\Users\HP\Desktop\New folder (2)\SplashScreen\SplashScreen\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\HP\Desktop\New folder (2)\SplashScreen\SplashScreen\bin\Debug\main_page.pdb
+C:\Users\HP\Desktop\New folder (2)\SplashScreen\SplashScreen\bin\Debug\main_page.exe.config
+E:\Desktop\New folder (2)\SplashScreen\SplashScreen\bin\Debug\SplashScreen.exe.config
+E:\Desktop\New folder (2)\SplashScreen\SplashScreen\bin\Debug\SplashScreen.exe
+E:\Desktop\New folder (2)\SplashScreen\SplashScreen\bin\Debug\SplashScreen.pdb
+E:\Desktop\New folder (2)\SplashScreen\SplashScreen\bin\Debug\main_page.exe
+E:\Desktop\New folder (2)\SplashScreen\SplashScreen\bin\Debug\FontAwesome.Sharp.dll
+E:\Desktop\New folder (2)\SplashScreen\SplashScreen\bin\Debug\WorkingPage.exe
+E:\Desktop\New folder (2)\SplashScreen\SplashScreen\bin\Debug\main_page.pdb
+E:\Desktop\New folder (2)\SplashScreen\SplashScreen\bin\Debug\main_page.exe.config
+E:\Desktop\New folder (2)\SplashScreen\SplashScreen\bin\Debug\WorkingPage.pdb
+E:\Desktop\New folder (2)\SplashScreen\SplashScreen\bin\Debug\WorkingPage.exe.config
+E:\Desktop\New folder (2)\SplashScreen\SplashScreen\obj\Debug\SplashScreen.csproj.AssemblyReference.cache
+E:\Desktop\New folder (2)\SplashScreen\SplashScreen\obj\Debug\WorkingPage.Form1.resources
+E:\Desktop\New folder (2)\SplashScreen\SplashScreen\obj\Debug\SplashScreen.splash.resources
+E:\Desktop\New folder (2)\SplashScreen\SplashScreen\obj\Debug\SplashScreen.admin.resources
+E:\Desktop\New folder (2)\SplashScreen\SplashScreen\obj\Debug\SplashScreen.Properties.Resources.resources
+E:\Desktop\New folder (2)\SplashScreen\SplashScreen\obj\Debug\SplashScreen.csproj.GenerateResource.cache
+E:\Desktop\New folder (2)\SplashScreen\SplashScreen\obj\Debug\SplashScreen.csproj.CoreCompileInputs.cache
+E:\Desktop\New folder (2)\SplashScreen\SplashScreen\obj\Debug\SplashScreen.csproj.CopyComplete
+E:\Desktop\New folder (2)\SplashScreen\SplashScreen\obj\Debug\SplashScreen.exe
+E:\Desktop\New folder (2)\SplashScreen\SplashScreen\obj\Debug\SplashScreen.pdb
+C:\Users\USER\Desktop\AHSAN\final_proj\New folder (2)\SplashScreen\SplashScreen\bin\Debug\SplashScreen.exe.config
+C:\Users\USER\Desktop\AHSAN\final_proj\New folder (2)\SplashScreen\SplashScreen\bin\Debug\SplashScreen.exe
+C:\Users\USER\Desktop\AHSAN\final_proj\New folder (2)\SplashScreen\SplashScreen\bin\Debug\SplashScreen.pdb
+C:\Users\USER\Desktop\AHSAN\final_proj\New folder (2)\SplashScreen\SplashScreen\bin\Debug\main_page.exe
+C:\Users\USER\Desktop\AHSAN\final_proj\New folder (2)\SplashScreen\SplashScreen\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\USER\Desktop\AHSAN\final_proj\New folder (2)\SplashScreen\SplashScreen\bin\Debug\WorkingPage.exe
+C:\Users\USER\Desktop\AHSAN\final_proj\New folder (2)\SplashScreen\SplashScreen\bin\Debug\main_page.pdb
+C:\Users\USER\Desktop\AHSAN\final_proj\New folder (2)\SplashScreen\SplashScreen\bin\Debug\main_page.exe.config
+C:\Users\USER\Desktop\AHSAN\final_proj\New folder (2)\SplashScreen\SplashScreen\bin\Debug\WorkingPage.pdb
+C:\Users\USER\Desktop\AHSAN\final_proj\New folder (2)\SplashScreen\SplashScreen\bin\Debug\WorkingPage.exe.config
+C:\Users\USER\Desktop\AHSAN\final_proj\New folder (2)\SplashScreen\SplashScreen\obj\Debug\SplashScreen.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\AHSAN\final_proj\New folder (2)\SplashScreen\SplashScreen\obj\Debug\WorkingPage.Form1.resources
+C:\Users\USER\Desktop\AHSAN\final_proj\New folder (2)\SplashScreen\SplashScreen\obj\Debug\SplashScreen.splash.resources
+C:\Users\USER\Desktop\AHSAN\final_proj\New folder (2)\SplashScreen\SplashScreen\obj\Debug\SplashScreen.admin.resources
+C:\Users\USER\Desktop\AHSAN\final_proj\New folder (2)\SplashScreen\SplashScreen\obj\Debug\SplashScreen.Properties.Resources.resources
+C:\Users\USER\Desktop\AHSAN\final_proj\New folder (2)\SplashScreen\SplashScreen\obj\Debug\SplashScreen.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\AHSAN\final_proj\New folder (2)\SplashScreen\SplashScreen\obj\Debug\SplashScreen.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\AHSAN\final_proj\New folder (2)\SplashScreen\SplashScreen\obj\Debug\SplashScreen.csproj.CopyComplete
+C:\Users\USER\Desktop\AHSAN\final_proj\New folder (2)\SplashScreen\SplashScreen\obj\Debug\SplashScreen.exe
+C:\Users\USER\Desktop\AHSAN\final_proj\New folder (2)\SplashScreen\SplashScreen\obj\Debug\SplashScreen.pdb
